@@ -17,9 +17,7 @@ function sayHiToGrandma(string) {
  console.log(sayHiToGrandma(string))
 }
 function logShout (string) {
-  if (string.toUpperCase() === string){
   console.log(string)
-  }
 }
 
 function logWhisper() {
