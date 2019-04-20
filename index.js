@@ -16,7 +16,7 @@ function sayHiToGrandma(string) {
  }
  console.log(sayHiToGrandma(string))
 }
-
+var uppercase = "HELLO!"
 function logShout (string) {
   if ()
   console.log(string)
