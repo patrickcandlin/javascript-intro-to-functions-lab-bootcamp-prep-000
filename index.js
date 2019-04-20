@@ -20,7 +20,7 @@ function logShout (string) {
   console.log(string)
 }
 
-function logWhisper() {
+function logWhisper(string) {
   
 }
 
