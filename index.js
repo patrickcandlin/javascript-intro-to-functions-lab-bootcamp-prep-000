@@ -18,6 +18,7 @@ function sayHiToGrandma(string) {
 }
 
 function logShout (string) {
+  if ()
   console.log(string)
 }
 
